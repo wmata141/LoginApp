@@ -1,0 +1,45 @@
+{
+  "COMENTARIO_0": "REPEAT",
+  "click_and_share": "Click here and Share with your Friends",
+  "on_press_text_copy": "The link to my finances has been copied to the clipboard",
+  "title": "Binco System",
+
+  "COMENTARIO_1": "SPLASH.JS",
+  "intro": "React Native Application",
+  
+  "COMENTARIO_2": "LOGIN.JS",
+  "sub_title": "Sign In to binco system",
+  "sign_in": "Sign In",
+  "dont_need_account": "You don't need to have an account",
+  "choose_language": "Choose language",
+  "empty_fields": "The form has empty fields",
+  "alert": "Alert",
+  "format_fields": "It must be a valid email and the password must have at least 6 characters, one uppercase, one lowercase and one special character",
+  "connection_error": "Connection Error",
+
+  "COMENTARIO_3": "WELCOME.JS",
+  "welcome": "Welcome",
+  "description": "Any person or company that wants to efficiently manage their accounts receivable. With this application, you can keep complete control of debtors, their balances, payment terms and much more, all from the comfort of your mobile device.",
+  "choose_wallpaper": "choose wallpaper color",
+  "accounts": "Accounts",
+
+  "COMENTARIO_4": "ACCOUNTS.JS",
+  "exit": "Exit",
+  "back": "Go Back",
+  "thanks": "Thanks !!!",
+  "record": "The record of your finances will remain here",
+  "name": "Name",
+  "total": "Total",
+  "add": "Add",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "detail": "Detail",
+  "save": "Save",
+  "description_notes": "Description - Notes",
+  "delete_account": "The record will be deleted",
+  "delete_description": "The record will be deleted, this step cannot be reverted",
+  "description_detail": "Description",
+
+  "COMENTARIO_8": "QRMODAL.JS",
+  "play_store": "Play Store"
+}

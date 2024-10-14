@@ -1,0 +1,45 @@
+{
+  "COMENTARIO_0": "REPEAT",
+  "click_and_share": "Haz clic aquí y comparte con tus amigos",
+  "on_press_text_copy": "El enlace a sistema binco ha sido copiado al portapapeles.",
+  "title": "Binco System",
+
+  "COMENTARIO_1": "SPLASH.JS",
+  "intro": "React Native Application",
+  
+  "COMENTARIO_2": "LOGIN.JS",
+  "sub_title": "Inicia sesión en sistema binco",
+  "sign_in": "Inicia sesión",
+  "dont_need_account": "No necesitas tener una cuenta",
+  "choose_language": "Elige idioma",
+  "empty_fields": "El formulario posee campos vacios",
+  "alert": "Alerta",
+  "format_fields": "Debe ser un correo valido y la contraseña debe tener al menos 6 caracteres, una mayúscula, minúscula y carácter especial ",
+  "connection_error": "Error de Conexion",
+
+  "COMENTARIO_3": "WELCOME.JS",
+  "welcome": "Bienvenido",
+  "description": "Cualquier persona o empresa que desee administrar eficientemente sus cuentas por cobrar. Con esta aplicación podrás llevar un control total de los deudores, sus saldos, condiciones de pago y mucho más, todo desde la comodidad de tu dispositivo móvil.",
+  "choose_wallpaper": "elige el color del fondo de pantalla",
+  "accounts": "Cuentas",
+
+  "COMENTARIO_4": "ACCOUNTS.JS",
+  "exit": "Salir",
+  "back": "Volver",
+  "thanks": "Gracias !!!",
+  "record": "El registro de tus finanzas quedará aquí",
+  "name": "Nombre",
+  "total": "Total",
+  "add": "Agregar",
+  "delete": "Eliminar",
+  "cancel": "Cancelar",
+  "detail": "Detalle",
+  "save": "Guardar",
+  "description_notes": "Descripcion - Notas",
+  "delete_account": "El registro será eliminado",
+  "delete_description": "El registro será eliminado, este paso no se puede revertir",
+  "description_detail": "Descripcion",
+
+  "COMENTARIO_8": "QRMODAL.JS",
+  "play_store": "Play Store"
+}
